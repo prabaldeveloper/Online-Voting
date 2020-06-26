@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OnlineVoting</string>
+
+    <string-array name="city">
+        <item>Select City</item>
+        <item>Allahabad</item>
+        <item>Varanasi</item>
+        <item>Noida</item>
+        <item>Kanpur</item>
+        <item>Lucknow</item>
+    </string-array>
+    <string name="title_activity_how_app_works">HowAppWorks</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
